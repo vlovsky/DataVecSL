@@ -15,7 +15,7 @@ Oracle SQL\*Loader was used as an inspiration for many features of the DSL. Howe
 Language is not fully compliant with the SQL*Loader. See [SQL\*Loader documentation](http://docs.oracle.com/database/121/SUTIL/toc.htm)
 for more information on formal syntax.
 
-DataVec is a data processing component in the Deeplearning4J stack. See [DataVec user guide](https://deeplearning4j.org/etl-userguide) for more info.
+DataVec is a data processing component in the [Deeplearning4J stack](https://github.com/deeplearning4j). See [DataVec user guide](https://deeplearning4j.org/etl-userguide) for more info.
 
 ## Documentation
 This project includes Parser and Executor. Parser intended to work with data load script and creates AST. Executor
