@@ -23,7 +23,7 @@ subsequently maps the AST to the DataVec calls.
 This component was built and tested with the following basic script. Source data is borrowed from the DataVec examples and
 included for convenience.
 
-'''
+```
 rem an example of load control file for loading basic DataVec example
 load data
 from :1
@@ -41,4 +41,4 @@ as (
     TransactionAmountUSD double (if 50.0 > TransactionAmountUSD then 0.0 else TransactionAmountUSD),
     FraudLabel enum("Fraud","Legit")
 );
-'''
+```
