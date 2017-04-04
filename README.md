@@ -1,8 +1,9 @@
 DataVec Scripting Language
 ==========================
 
-!!!Warning: project is in the research state and must no be used for production purposes.!!!
-Proof of technical concept to wrap DL4J DataVec component into data manipulation DSL
+!!!Warning: this project is in the research state and must no be used for production purposes!!!
+
+DataVecSL is a Proof of technical concept to wrap DL4J DataVec component into data manipulation DSL
 ---
 
 ## Build and Run
@@ -17,7 +18,7 @@ for more information on formal syntax.
 DataVec is a data processing component in the Deeplearning4J stack. See [DataVec user guide](https://deeplearning4j.org/etl-userguide) for more info.
 
 ## Documentation
-This project includes Parser and Executor. Parser intended to work on data load script to create AST. Executor
+This project includes Parser and Executor. Parser intended to work with data load script and creates AST. Executor
 subsequently maps the AST to the DataVec calls.
 
 This component was built and tested with the following basic script. Source data is borrowed from the DataVec examples and
