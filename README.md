@@ -10,8 +10,8 @@ Proof of technical concept to wrap DL4J DataVec component into data manipulation
 Use [Maven](https://maven.apache.org/) to build.
 
 ## References and notes
-Oracle SQL*Loader was used as an inspiration for many features of the DSL. However, syntax of the DataVec Scripting
-Language is not fully compliant with the SQL*Loader. See [SQL*Loader documentation](http://docs.oracle.com/database/121/SUTIL/toc.htm)
+Oracle SQL\*Loader was used as an inspiration for many features of the DSL. However, syntax of the DataVec Scripting
+Language is not fully compliant with the SQL*Loader. See [SQL\*Loader documentation](http://docs.oracle.com/database/121/SUTIL/toc.htm)
 for more information on formal syntax.
 
 DataVec is a data processing component in the Deeplearning4J stack. See [DataVec user guide](https://deeplearning4j.org/etl-userguide) for more info.
