@@ -11,3 +11,7 @@
 [Apex](https://apex.apache.org/docs/apex/)
 
 [PIG Latin](https://pig.apache.org/docs/r0.7.0/piglatin_ref1.html)
+
+Scoobi, Scalding, Scrunch, Cascading
+
+[SQL]
