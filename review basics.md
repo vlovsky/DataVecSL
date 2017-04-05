@@ -10,7 +10,7 @@
 
 [Apex](https://apex.apache.org/docs/apex/)
 
-[PIG Latin](https://pig.apache.org/docs/r0.7.0/piglatin_ref1.html)
+[PIG Latin](https://pig.apache.org/docs/r0.7.0/piglatin_ref1.html,https://hortonworks.com/blog/pig-eye-for-the-sql-guy/)
 
 Scoobi, Scalding, Scrunch, Cascading
 
