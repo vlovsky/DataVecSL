@@ -6,17 +6,17 @@ DataVec Scripting Language
 DataVecSL is a Proof of technical concept to wrap DL4J DataVec component into data manipulation DSL
 ---
 
-While working on this project I quickly came to realization that the problem I intended to solve is not a DataVen specific problem. It presists throughout the entrire suit of tools available to the scientists working in the domain of AI. 
+While working on this project I quickly came to realization that the problem I intended to solve is not a DataVen specific problem. It persists throughout the entire suit of tools available to the scientists working in the domain of AI.
 
-On one hand, the industry is rapidly coming up with new and better tools such as DL4J, Keras, Spark DataFrames, R, Dataframes.jl, etc. At least a dozen or more look them up in [Frameworks and Languages](https://github.com/vlovsky/DataVecSL/blob/master/Frameworks%20and%20Languages.md). On the other hand, with so much deversity, the users are suck in a never ending loop of relearning how to do actual stuff.
+On one hand, the industry is rapidly coming up with new and better tools such as DL4J, Keras, Spark DataFrames, R, Dataframes.jl, etc. At least a dozen or more look them up in [Frameworks and Languages](https://github.com/vlovsky/DataVecSL/blob/master/Frameworks%20and%20Languages.md). On the other hand, with so much diversity, the users are suck in a never ending loop of relearning how to do actual stuff.
 
-Let's start from the history of the SQL. I was too young to witness how the SQL was struggling to be born, as numerous RDBMS vendors and ANSI, and later ISO were trying to get on the same pages as to what should be the scope of the SQL. There were quite a few SQL precedessors and alternatives. But no matter how bad SQL is, it is a popular language and I think it served its intended pupose well. And the pupose was to be a domain specific language to mange and use data according to the Relatinal model.
+Let's start from the history of the SQL. I was too young to witness how the SQL was struggling to be born, as numerous RDBMS vendors and ANSI, and later ISO were trying to get on the same pages as to what should be the scope of the SQL. There were quite a few SQL predecessors and alternatives. But no matter how bad SQL is, it is a popular language and I think it served its intended purpose well. And the purpose was to be a domain specific language to mange and use data according to the Relational model.
 
-Today we just need something slightly differet although still related to data manipulation. The difference is the mathematical model - not only relational, and so it's not only SQL. And from where we are right now with the veriety of the languages, it seems that we are bound to repeat the history where the languages rise and fall with respect to their popularity to be the language of choice when it comes to this domain.
+Today we just need something slightly different although still related to data manipulation. The difference is the mathematical model - not only relational, and so it's not only SQL. And from where we are right now with the variety of the languages, it seems that we are bound to repeat the history where the languages rise and fall with respect to their popularity to be the language of choice when it comes to this domain.
 
-To generalize the initial idea of this project, it can be thought of as an attempt to develop an engine independent language for working with data. I realize this is a huge goal that one person isn't going to achieve, and that's why this project is in a reasearch state. Hopefully, these ideas are heard and leveraged as part of a bigger cmmunity effort.
+To generalize the initial idea of this project, it can be thought of as an attempt to develop an engine independent language for working with data. I realize this is a huge goal that one person isn't going to achieve, and that's why this project is in a research state. Hopefully, these ideas are heard and leveraged as part of a bigger community effort.
 
-And to backup my words up, here are [few related but independant thoughts](https://www.youtube.com/watch?v=stlxbC7uIzM&feature=youtu.be&t=220) from Wes McKinney, the creator of Python Data Analysis Library - pandas. Here are the [slides on slide share](https://www.slideshare.net/wesm/dataframes-the-good-bad-and-ugly) (slide 11 and 12). Decoupling is the key word.
+And to backup my words up, here are [few related but independent thoughts](https://www.youtube.com/watch?v=stlxbC7uIzM&feature=youtu.be&t=220) from Wes McKinney, the creator of Python Data Analysis Library - pandas. Here are the [slides on slide share](https://www.slideshare.net/wesm/dataframes-the-good-bad-and-ugly) (slide 11 and 12). Decoupling is the key word.
 
 ## Build and Run
 
