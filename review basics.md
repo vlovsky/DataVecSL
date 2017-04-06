@@ -16,6 +16,16 @@
 
 [Kettle](http://wiki.pentaho.com/display/BAD/Understanding+How+Pentaho+works+with+Hadoop)
 
-Scoobi, Scalding, Scrunch, Cascading, YARN, Mesos
+[Spark Scala/Java](https://spark.apache.org/docs/1.5.1/api/java/org/apache/spark/sql/DataFrame.html)
 
-[SQL]
+[zeppelin](http://zeppelin.apache.org/)
+
+(Scoobi)[http://nicta.github.io/scoobi/guide/com.nicta.scoobi.guide.QuickStart.html]
+
+(Scalding)[https://twitter.github.io/scalding/]
+
+Scrunch, Cascading, YARN, Mesos,SQL
+
+Others work
+___________
+[Comparisons/Alternatives](https://www.slideshare.net/Hadoop_Summit/severs-june26-255pmroom210av2)
