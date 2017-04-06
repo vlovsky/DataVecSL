@@ -6,7 +6,7 @@ DataVec Scripting Language
 DataVecSL is a Proof of technical concept to wrap DL4J DataVec component into data manipulation DSL
 ---
 
-While working on this project I quickly came to realization that the problem I intended to solve is not a DataVen specific problem. It persists throughout the entire suit of tools available to the scientists working in the domain of AI.
+While working on this project I quickly came to the realization that the problem I intended to solve is not a DataVec specific problem. It persists throughout the entire suit of tools available to the scientists working in the domain of AI.
 
 On one hand, the industry is rapidly coming up with new and better tools such as DL4J, Keras, Spark DataFrames, R, Dataframes.jl, etc. At least a dozen or more look them up in [Frameworks and Languages](https://github.com/vlovsky/DataVecSL/blob/master/Frameworks%20and%20Languages.md). On the other hand, with so much diversity, the users are suck in a never ending loop of relearning how to do actual stuff.
 
