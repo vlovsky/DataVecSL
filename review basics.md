@@ -12,6 +12,10 @@
 
 [PIG Latin](https://pig.apache.org/docs/r0.7.0/piglatin_ref1.html) [P2](https://hortonworks.com/blog/pig-eye-for-the-sql-guy/)
 
-Scoobi, Scalding, Scrunch, Cascading
+[Apache Nifi](https://nifi.apache.org/docs.html)
+
+[Kettle](http://wiki.pentaho.com/display/BAD/Understanding+How+Pentaho+works+with+Hadoop)
+
+Scoobi, Scalding, Scrunch, Cascading, YARN, Mesos
 
 [SQL]
