@@ -20,9 +20,9 @@
 
 [zeppelin](http://zeppelin.apache.org/)
 
-(Scoobi)[http://nicta.github.io/scoobi/guide/com.nicta.scoobi.guide.QuickStart.html]
+[Scoobi](http://nicta.github.io/scoobi/guide/com.nicta.scoobi.guide.QuickStart.html)
 
-(Scalding)[https://twitter.github.io/scalding/]
+[Scalding](https://twitter.github.io/scalding/)
 
 Scrunch, Cascading, YARN, Mesos,SQL
 
