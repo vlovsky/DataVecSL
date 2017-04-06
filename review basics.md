@@ -27,5 +27,5 @@
 Scrunch, Cascading, YARN, Mesos,SQL
 
 Others work
-___________
+===========
 [Comparisons/Alternatives](https://www.slideshare.net/Hadoop_Summit/severs-june26-255pmroom210av2)
